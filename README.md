@@ -18,6 +18,6 @@ Registration Number: IT23652200
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/sithira-janiya/IT23652200_ITPM_Assignment_1.git
    cd IT23652200_ITPM_Assignment_1
    ```
